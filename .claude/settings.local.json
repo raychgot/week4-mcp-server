@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node:*)",
+      "mcp__dev-notes-server__save_note",
+      "mcp__dev-notes-server__list_notes",
+      "mcp__dev-notes-server__read_note"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "dev-notes-server"
+  ]
+}

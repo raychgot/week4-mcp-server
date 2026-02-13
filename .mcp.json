@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "week4-notes-server": {
+      "command": "node",
+      "args": ["index.js"],
+      "cwd": "/Users/rachel/Desktop/DIG4503C/week4/week4-notes-server"
+    }
+  }
+}
